@@ -18,3 +18,4 @@ SEMANAS:
 * 6s2 [Polimorfismo](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S06.s1_Polimorfismo%202)
 * 7s1 [Clase Abstracta](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S07.s1_ClaseAbstracta%201)
 * 7s2 [Clase Abstracta](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S07.s1_ClaseAbstracta%202)
+* 8s2 [Clase Interface](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S08.s2_Interface)
