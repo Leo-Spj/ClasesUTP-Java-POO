@@ -19,6 +19,9 @@ SEMANAS:
 * 7s1 [Clase Abstracta](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S07.s1_ClaseAbstracta%201)
 * 7s2 [Clase Abstracta](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S07.s1_ClaseAbstracta%202)
 * 8s2 [Clase Interface](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S08.s2_Interface)
+* 9s1 [Genéricos](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S09.s1_Genericos)
+* 9s2 [Genéricos](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S09.s2_Genericos)
+* 11s1 [ArrayList](https://github.com/Leo-Spj/POO-java-UTP/tree/main/S11.s1_ArrayList)
 
 # Resumen:
 
@@ -29,3 +32,4 @@ Aquí tienes una mejora del resumen:
 7. **Clase Abstracta:** Se utiliza para representar conceptos generales y definir subclases más específicas. Una clase abstracta contiene al menos un método abstracto, que no tiene implementación. No se puede instanciar directamente. Se utiliza la palabra clave `abstract` al crear un método abstracto y `extends` para heredar de una clase abstracta.
 8. **Interfaces:** Las interfaces son similares a las clases abstractas, pero no se pueden instanciar. Se utilizan para lograr la herencia múltiple en Java y se definen mediante la palabra clave `interface`. Las interfaces declaran métodos y variables abstractas que deben ser implementados por las clases que las utilizan. Se utiliza la palabra clave `implements` para implementar una interfaz en una clase.
 9. **Genéricos:** Los genéricos en Java proporcionan flexibilidad en el tipo de datos que se utilizará en una clase o método. Se utilizan para crear clases y métodos que pueden manejar diferentes tipos de datos. Los nombres genéricos sugeridos son: E (elemento de una colección), K (clave), N (número), T (tipo) y V (valor). Los genéricos no permiten crear objetos directamente, usar arrays, sobrecargar métodos o utilizar `instanceof` con tipos genéricos. Se pueden combinar con clases abstractas. Por ejemplo, `Vivienda<S, T>` es una clase genérica y `Casa extends Vivienda<Integer, String>` es una subclase específica de `Vivienda`.
+11. **ArrayList:** La clase `ArrayList` es una implementación de la interfaz `List` que utiliza un array para almacenar los elementos. Se puede utilizar para almacenar objetos de cualquier tipo. Los elementos se agregan con el método `add()`. Se puede acceder a los elementos con el método `get()` y se puede obtener el tamaño de la lista con el método `size()`. Se puede recorrer la lista con un bucle `for` o un bucle `for-each`. Se puede eliminar un elemento con el método `remove()`.
